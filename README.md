@@ -39,5 +39,5 @@ This web application is designed to streamline hospital operations, enhance pati
 
 ## Project Management Links
 
-- [Figma Design](i[nsert_link_here](https://www.figma.com/design/J1QDWNHo8JTgzu52Ua6S4M/MedAppoint-(Community)?node-id=120-1137&node-type=frame&t=3qVFtiPr8SPOyvcR-0))
+- [Figma Design](https://www.figma.com/design/J1QDWNHo8JTgzu52Ua6S4M/MedAppoint-(Community)?node-id=120-1137&node-type=frame&t=3qVFtiPr8SPOyvcR-0)
 - [Trello Board]([insert_link_here](https://trello.com/invite/b/66ea82ea181a5bf262b9c99f/ATTI58031fc33dab8c75914eda69a725b65751FC1EF6/hospital))
